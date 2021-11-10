@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Saviour's Coursera Site
 
 You can use the [editor on GitHub](https://github.com/Sa-vi-our/Saviour-Chembe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
